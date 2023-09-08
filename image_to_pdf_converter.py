@@ -7,10 +7,10 @@ from PIL import Image
 import os
 
 # storing image path
-img_path = "C:/Users/Elvo/Downloads/birth certificate.jpeg"
+img_path = "C:/Users/Elvo/Downloads/file.jpeg"
 
 # storing pdf path
-pdf_path = "C:/Users/Elvo/Downloads/birth_certificate.pdf"
+pdf_path = "C:/Users/Elvo/Downloads/file.pdf"
 
 # opening image
 image = Image.open(img_path)
